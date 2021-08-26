@@ -1,0 +1,2 @@
+i
+Para sair, clico em esc,  : wq e dou enter
